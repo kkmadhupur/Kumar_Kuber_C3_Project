@@ -27,8 +27,6 @@ public class Restaurant {
     return false;
     }
 
-    }
-
     public LocalTime getCurrentTime(){ return  LocalTime.now(); }
 
     public List<Item> getMenu() {
